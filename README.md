@@ -1,1 +1,3 @@
 # rock_paper_scissor
+
+This is a project from Dicoding course on introduction to machine learning. The objective is to build a model that classify whether the human hand image is considered as rock, paper, or scissor. The method is using CNN with categorical cross entrophy and Adam optimizer. I tried to improve the accuracy and convergence graph to be smooth by manipulate the CNN layers but it turns out did not go as I expected. The model gave about 95% accuracy and 14% loss and from the TensorBoard you could see that the graph wasn't smooth. In short, it was a good introduction course but it seems that I need to learn more about this subject.
